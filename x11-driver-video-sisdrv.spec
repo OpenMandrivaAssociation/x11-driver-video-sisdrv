@@ -6,6 +6,7 @@ Group: Development/X11
 URL: http://www.sis.com
 Source1: sis_drv.so.gz
 License: Freeware
+BuildRoot: %{_tmppath}/%{name}-root
 
 BuildRequires: libdrm-devel >= 2.0
 BuildRequires: x11-proto-devel >= 1.0.0
