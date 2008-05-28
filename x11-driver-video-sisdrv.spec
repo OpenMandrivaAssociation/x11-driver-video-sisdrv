@@ -18,7 +18,7 @@ Conflicts: xorg-x11-server < 7.0
 Conflicts: x11-driver-video-sis
 
 %description
-The X.org driver provided by SiS for SiS Cards.
+x11-driver-video-sisdrv is the X.org driver provided by SiS for SiS Cards.
 
 %install
 mkdir -p %{buildroot}%{_libdir}/xorg/modules/drivers
