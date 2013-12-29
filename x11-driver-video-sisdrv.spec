@@ -1,7 +1,7 @@
 Summary:	X.org driver provided by SiS for SiS Cards
 Name:		x11-driver-video-sisdrv
 Version:	0.8.0
-Release:	6
+Release:	7
 Group:		System/X11
 License:	Freeware
 Url:		http://www.sis.com
