@@ -4,7 +4,7 @@ Version:	0.8.0
 Release:	7
 Group:		System/X11
 License:	Freeware
-Url:		http://www.sis.com
+Url:		https://www.sis.com
 Source1:	sis_drv.so.gz
 
 BuildRequires:	pkgconfig(gl)
